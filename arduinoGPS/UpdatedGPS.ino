@@ -27,8 +27,8 @@ unsigned char debugMode = 1;
 
 int initialized = 0;
 
-double homeLatitude = 33.98069; //180 Shady Grove Dr
-double homeLongitude = -117.31571;
+double homeLatitude = ; 
+double homeLongitude = ;
 
 void setSystemStandbyOn(){
   EEPROM.write(SYSTEM_STANDBY_ADDRESS, 1);
