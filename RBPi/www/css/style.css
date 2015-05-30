@@ -1,0 +1,102 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+	margin:0px;
+	padding:0px;
+    background-color: black;
+    background-image: url("Fap_Background.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    
+}
+div.awrap{
+	height:80%;
+	top:50%;
+	width:100%;
+    margin-top: 10%;
+	text-align:center;
+    background-image: url("fap_button.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+}
+a {
+	display:inline-block;
+    width: 600px;
+    height: 600px;
+    -webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
+    border-radius: 300px;
+    
+	color:white;
+	text-decoration: none;
+	font-size: 350%;
+	line-height: 380px;
+    margin-top: 38%;
+    
+	
+}	
+a:active {
+    
+    text-align:center;
+    background-image: url("fap_over.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	
+}
+
+#W {
+	color:white;
+	font-size: 700%;
+	text-align:center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-style:oblique;
+	margin-top: 50px;
+}
+
+#loadingImg {
+	text-align:center;
+	display:inline-block;
+	width: 500px;
+	height: 500px;
+	margin-left:28%;
+	margin-bottom: 0px;
+	margin-top: -400px;
+	
+}
+
+#loadingP{
+	text-align:center;
+	color:white;
+	font-size: 300%;
+	font-style:oblique;
+	margin-bottom: 50px;
+	margin-top: 150px;
+}
+
+table{
+	width: 100%;
+	font-size:250%;
+	color:white;
+	margin-left:25px;
+}
+
+.numbers{
+	border-radius: 50%;
+	height: 220px;
+	width: 220px;
+}
+
+.numbers:active{
+	background-color: #585858;
+}
+
+
+

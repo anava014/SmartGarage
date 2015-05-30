@@ -1,0 +1,2 @@
+/Users/andrewnava/AndroidStudioProjects/Bluetooth/app/build/intermediates/classes/debug
+/Users/andrewnava/AndroidStudioProjects/Bluetooth/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-f04021a202e4cea78c4dc280975a8d803db2a00f.jar
