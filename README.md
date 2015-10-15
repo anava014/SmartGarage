@@ -1,5 +1,5 @@
 # SmartGarage
-Hacking a garage and making it smart so that it knows when you're approaching with your vehicle.
+Driving home, your garage knows you are approaching and automatically opens for you using an Arduino, raspberry Pi, GPS, Bluetooth Module, and a hosted server. An alternative to opening the garage, a mobile WebApp also built.
 
 This was a DIY project proposed to IEEE @ UCR and it was my first time learning lots of new material such as
 using a GPS module, bluetooth module, raspberry Pi funcitonality and even creating my own android app.
